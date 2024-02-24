@@ -1,0 +1,16 @@
+threre are Foure kinds of RNN
+1) many to One 
+   a) input will be many : 
+   b) output will be one : obiously output will be sequential 
+   c)example
+2)one to many 
+    a)input one come :non sequential data 
+    b) output will be multiple: obiously output will be sequential 
+
+    c)example: sentiment analysisis
+3) many to many
+    a)input : multiple sequentialdata
+    B)output:sequential data
+    c)example: nlp pos tagging
+4)one to One 
+    a)
